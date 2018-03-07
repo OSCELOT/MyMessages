@@ -7,8 +7,6 @@ Bruce Tenison gave written permission to update - Thank You Bruce!
 
 This WAR file is for Blackboard Learn Q4 2016 CU6 (Original Experience only).
 
-If you are interested in working on a future version for both Original Experience and Ultra please email lmsys at unm dot edu.
-
 If you are currently using Oscelot Messages then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
 
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
