@@ -5,12 +5,16 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2017 (Original Experience only)
-The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Original Experience + Self Hosted)
+The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2017 (Original Experience only).
+
+The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Original Experience + Self Hosted).
+
 The unm-unmmymessages.war (version 2.3.0-q4.2016) is the WAR file for for Blackboard Learn Q4 2016 (Original Experience only).
-The University of New Mexico previously ran unm-unmmymessages.war on Blackboard Learn Q4 2016 CU6 (Original Experience + Self Hosted)
+
+The University of New Mexico previously ran unm-unmmymessages.war on Blackboard Learn Q4 2016 CU6 (Original Experience + Self Hosted).
 
 If you are currently running unm-unmmymessages.war then you do NOT need to uninstall My Messages in order to successfully install unm-unmmymessages2017.war.
+
 If you are currently using Oscelot Messages then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
 
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
