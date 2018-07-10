@@ -7,7 +7,13 @@ Bruce Tenison gave written permission to update - Thank You Bruce!
 
 The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2017 (Original Experience only).
 
-The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Original Experience + Self Hosted).
+The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Original Experience + Self Hosted).  
+
+The University of New Mexico recommends to use this Q4 2017 version since Q4 2016 will not be supported as of December 2018.
+
+Please post your status with installing Q4 2017 My Messages B2:
+
+https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
 
 The unm-unmmymessages.war (version 2.3.0-q4.2016) is the WAR file for for Blackboard Learn Q4 2016 (Original Experience only).
 
