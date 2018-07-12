@@ -13,7 +13,7 @@ The University of New Mexico has also successfully installed and tested unm-unmm
 
 The University of New Mexico recommends to use this Q4 2017 version since Q4 2016 will not be supported as of December 2018.
 
-Please post your status with installing Q4 2017 My Messages B2:
+Please post your status with installing Q4 2017 My Messages B2 (Self-Hosted, Managed Hosted, or SaaS):
 
 https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
 
