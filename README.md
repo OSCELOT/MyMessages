@@ -38,7 +38,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q4 2017 (recommend CU2) or Q4 2016 (recommend CU6)|
+| **Target Platforms** | Blackboard Learn Q4 2017 (recommended) or Q4 2016 |
 
 ## Documentation
 
