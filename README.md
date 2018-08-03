@@ -1,4 +1,10 @@
 # MyMessages
+Screen Shot of My Messages Module with No (Course) Messages:
+https://github.com/OSCELOT/MyMessages/blob/master/MyMessages_NoMessages.png
+Screen Shot of My Messages Module with One (Couse) Message:
+https://github.com/OSCELOT/MyMessages/blob/master/MyMessages_OneMessage.png
+Screen Shot with One (Course) Message after clicking link:
+https://github.com/OSCELOT/MyMessages/blob/master/MyMessages_OneMessage_AfterLinkClick.png
 
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
