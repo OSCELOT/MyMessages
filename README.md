@@ -1,4 +1,6 @@
 # MyMessages
+![Alt text](MyMessages_NoMessages.png?raw=true "Screen Shot of My Messages Module with No (Course) Messages")
+
 Screen Shot of My Messages Module with No (Course) Messages:
 https://github.com/OSCELOT/MyMessages/blob/master/MyMessages_NoMessages.png
 
