@@ -20,6 +20,8 @@ The University of New Mexico has also successfully installed and tested unm-unmm
 
 The University of New Mexico recommends to use version 2.3.1-q4.2017 since Q4 2016 will not be supported as of December 2018.
 
+The University of New Mexico announces on 10/4/2018 that it no longer will put resources for My Messages with SaaS due to limited UNM resources since believe this would best be done as a Custom B2 migration to LTI + REST API.
+
 Please post your status with installing My Messages B2 on Q4 2017 (Self-Hosted, Managed Hosted, or SaaS):
 
 https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
