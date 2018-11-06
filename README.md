@@ -20,7 +20,11 @@ The University of New Mexico has also successfully installed and tested unm-unmm
 
 The University of New Mexico recommends to use version 2.3.1-q4.2017 since Q4 2016 will not be supported as of December 2018.
 
-The University of New Mexico announces on 10/4/2018 that it no longer will put resources for My Messages with SaaS due to limited UNM resources since believe this would best be done as a Custom B2 migration to LTI + REST API.
+My Messages may work with SaaS, but UNM is not maintaining My Messages with SaaS due to limited UNM resources since believe this would best be done as a Custom B2 migration to LTI + REST API.
+
+Please post your status with installing My Messages B2 on Q4 2018 (Self-Hosted, Managed Hosted, or SaaS):
+
+https://community.blackboard.com/message/26281-my-messages-b2-for-q4-2018
 
 Please post your status with installing My Messages B2 on Q4 2017 (Self-Hosted, Managed Hosted, or SaaS):
 
@@ -49,7 +53,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q2 2018 (ex: 3400.0.0), Q4 2017 (ex: 3300.0.0), or Q4 2016 (ex: 3100.0.0) |
+| **Target Platforms** | Blackboard Learn Q4 2018 (ex: 3500.0.0), Q2 2018 (ex: 3400.0.0), Q4 2017 (ex: 3300.0.0), or Q4 2016 (ex: 3100.0.0) |
 
 ## Documentation
 
