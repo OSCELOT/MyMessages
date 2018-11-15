@@ -36,6 +36,8 @@ https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-
 
 The unm-unmmymessages.war (version 2.3.0-q4.2016) is the WAR file for for Blackboard Learn Q4 2016 (Original Experience only).
 
+The unm-unmmymessages.war (version 2.3.0-q4.2016) is deprecated effective December 1, 2018.
+
 The University of New Mexico previously ran unm-unmmymessages.war on Blackboard Learn Q4 2016 CU6 (Self Hosted).
 
 If you are currently running unm-unmmymessages.war then you do NOT need to uninstall My Messages in order to successfully install unm-unmmymessages2017.war.
