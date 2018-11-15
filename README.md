@@ -26,13 +26,13 @@ Please post your status with installing My Messages B2 on Q4 2018 (Self-Hosted, 
 
 https://community.blackboard.com/message/26281-my-messages-b2-for-q4-2018
 
-Please post your status with installing My Messages B2 on Q4 2017 (Self-Hosted, Managed Hosted, or SaaS):
-
-https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
-
 Please post your status with installing My Messages B2 on Q2 2018 or above (Self-Hosted, Managed Hosted, or SaaS):
 
 https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
+
+Please post your status with installing My Messages B2 on Q4 2017 (Self-Hosted, Managed Hosted, or SaaS):
+
+https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
 
 The unm-unmmymessages.war (version 2.3.0-q4.2016) is the WAR file for for Blackboard Learn Q4 2016 (Original Experience only).
 
