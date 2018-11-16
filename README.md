@@ -18,15 +18,13 @@ The University of New Mexico is currently running unm-unmmymessages2017.war on B
 
 The University of New Mexico has also successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2018 Developer Virtual Machine (DVM).
 
-The University of New Mexico recommends to use version 2.3.1-q4.2017 since Q4 2016 will not be supported as of December 2018.
-
 My Messages may work with SaaS, but UNM is not maintaining My Messages with SaaS due to limited UNM resources since believe this would best be done as a Custom B2 migration to LTI + REST API.
 
 Please post your status with installing My Messages B2 on Q4 2018 (Self-Hosted, Managed Hosted, or SaaS):
 
 https://community.blackboard.com/message/26281-my-messages-b2-for-q4-2018
 
-Please post your status with installing My Messages B2 on Q2 2018 or above (Self-Hosted, Managed Hosted, or SaaS):
+Please post your status with installing My Messages B2 on Q2 2018 (Self-Hosted, Managed Hosted, or SaaS):
 
 https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
 
@@ -34,13 +32,7 @@ Please post your status with installing My Messages B2 on Q4 2017 (Self-Hosted, 
 
 https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
 
-The unm-unmmymessages.war (version 2.3.0-q4.2016) is the WAR file for for Blackboard Learn Q4 2016 (Original Experience only).
-
-The unm-unmmymessages.war (version 2.3.0-q4.2016) is deprecated effective December 1, 2018.
-
-The University of New Mexico previously ran unm-unmmymessages.war on Blackboard Learn Q4 2016 CU6 (Self Hosted).
-
-If you are currently running unm-unmmymessages.war then you do NOT need to uninstall My Messages in order to successfully install unm-unmmymessages2017.war.
+The unm-unmmymessages.war (version 2.3.0-q4.2016) is deprecated effective December 1, 2018 since Blackboard Learn Q4 2016 is not supported as of December 2018.
 
 If you are currently using Oscelot Messages (version 2.2.1 or prior) then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
 
@@ -55,7 +47,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q4 2018 (ex: 3500.0.0), Q2 2018 (ex: 3400.0.0), Q4 2017 (ex: 3300.0.0), or Q4 2016 (ex: 3100.0.0) |
+| **Target Platforms** | Blackboard Learn Q4 2018 (ex: 3500.0.0), Q2 2018 (ex: 3400.0.0), or Q4 2017 (ex: 3300.0.0) |
 
 ## Documentation
 
