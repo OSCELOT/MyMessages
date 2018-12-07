@@ -14,9 +14,13 @@ The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackb
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
-The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Self Hosted).  
+The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Self Hosted).
 
-The University of New Mexico has also successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2018 Developer Virtual Machine (DVM).
+The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU1 Developer Virtual Machine (DVM).
+
+The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 Developer Virtual Machine (DVM).
+
+The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2018 Developer Virtual Machine (DVM).
 
 My Messages may work with SaaS, but UNM is not maintaining My Messages with SaaS due to limited UNM resources since believe this would best be done as a Custom B2 migration to LTI + REST API.
 
@@ -47,7 +51,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs(ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
+| **Target Platforms** | Blackboard Learn Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs (ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
 
 ## Documentation
 
