@@ -18,6 +18,8 @@ The University of New Mexico is currently running unm-unmmymessages2017.war on B
 
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU2 Developer Virtual Machine (DVM).
 
+The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU2 Developer Virtual Machine (DVM).
+
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU1 Developer Virtual Machine (DVM).
 
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 Developer Virtual Machine (DVM).
