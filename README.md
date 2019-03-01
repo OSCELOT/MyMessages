@@ -13,8 +13,11 @@ Bruce Tenison gave written permission to update - Thank You Bruce!
 The unm-unmmymessages2019.war (version 2.3.4-3600.2019) is the WAR file for Blackboard Learn SaaS 3600 (Original Experience only).
 
 Updates included in unm-unmmymessages2019.war (version 2.3.4-3600.2019):
+
 bb-manifest-pt_BR.properties - added Portuguese (Brazil) language (Thanks to Diego Roberto de Sousa for translation)
+
 bb-manifest.xml - Require 3600.0.0 (or higher) to install
+
 Rebuild with Java 11 and 3600.0.0 Blackboard Java APIs
 
 The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
