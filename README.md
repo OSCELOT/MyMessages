@@ -18,6 +18,8 @@ bb-manifest-pt_BR.properties - added Portuguese (Brazil) language (Thanks to Die
 
 bb-manifest.xml - Require 3600.0.0 (or higher) to install
 
+b2-context (Basic support functions for Building Blocks) - Using version 1.9.00 (Thanks to SPV Software Products for maintaining on OSCELOT)
+
 Rebuild with Java 11 and 3600.0.0 Blackboard Java APIs
 
 The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
