@@ -10,18 +10,6 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages2019.war (version 2.3.4-3600.2019) is the WAR file for Blackboard Learn SaaS 3600 (Original Experience only).
-
-Updates included in unm-unmmymessages2019.war (version 2.3.4-3600.2019):
-
-bb-manifest-pt_BR.properties - added Portuguese (Brazil) language (Thanks to Diego Roberto de Sousa for translation)
-
-bb-manifest.xml - Require 3600.0.0 (or higher) to install
-
-b2-context (Basic support functions for Building Blocks) - Using version 1.9.00 (Thanks to SPV Software Products for maintaining on OSCELOT)
-
-Rebuild with Java 11 and 3600.0.0 Blackboard Java APIs
-
 The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
@@ -43,9 +31,6 @@ The University of New Mexico has successfully installed and tested unm-unmmymess
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2018 Developer Virtual Machine (DVM).
 
 My Messages may work with SaaS, but believe this would best be done as a Custom B2 migration to LTI + REST API.
-
-Please post your status with installing My Messages B2 on SaaS 3600 (or higher):
-https://community.blackboard.com/message/28158-my-messages-b2-for-saas-360000-original-experience
 
 Please post your status with installing My Messages B2 on Q4 2018 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
 
@@ -74,7 +59,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn SaaS 3600 Original Experience (ex: 3600.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs (ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
+| **Target Platforms** | Blackboard Learn Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs (ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
 
 ## Documentation
 
