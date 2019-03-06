@@ -16,8 +16,6 @@ My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX
 
 The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Self Hosted).
 
-The University of New Mexico has successfully installed and tested OSCELOT My Messages (version 2.3.4-3600.2019) on a SaaS Tech Preview Shared Server (3600 - Original Experience).
-
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU4 Developer Virtual Machine (DVM).
 
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU3 Developer Virtual Machine (DVM).
