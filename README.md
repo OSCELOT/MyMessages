@@ -10,13 +10,15 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
+The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
 
 The unm-unmmymessages2019.war (version 2.3.5-q4.2019) is the WAR file for Blackboard Learn SaaS (Java 11) (Original Experience only).
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
 The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Self Hosted).
+
+The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2019 Developer Virtual Machine (DVM).
 
 The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU5.
 
@@ -61,7 +63,7 @@ MyMessages is distributed in the hope that it will be useful,but WITHOUT ANY WAR
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs (ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
+| **Target Platforms** | Blackboard Learn Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), Q2 2018 with optional CUs (ex: 3400.0.0), or Q4 2017 with optional CUs (ex: 3300.0.0) |
 
 ## Documentation
 
