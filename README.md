@@ -10,9 +10,7 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
-
-The unm-unmmymessages2019.war (version 2.3.5-q4.2019) is the WAR file for Blackboard Learn SaaS (Java 11) (Original Experience only).
+The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
