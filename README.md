@@ -69,7 +69,7 @@ As System Administrator: Communities->Tabs and Modules->Tabs
 
 Top Frame Tab: My Institution
 
-My Institution->Default Content
+My Institution (at same level as Notifications Dashboard)->Default Content
 
 My Messages - Check both Displayed and Required boxes -> Submit
 
