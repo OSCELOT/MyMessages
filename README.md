@@ -10,39 +10,35 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages2017.war (version 2.3.1-q4.2017) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
+The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
+
+Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
+
+Version 2.3.3-q4.2018 will be deprecated on Q4 2017 effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
+
+My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 since Q4 2019 is planned to use Java 11.  Plan to post another My Messages version for Java 11 about late December 2019.
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
-The University of New Mexico is currently running unm-unmmymessages2017.war on Blackboard Learn Q4 2017 CU2 (Self Hosted).
+The University of New Mexico is currently running unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) on Blackboard Learn Q4 2018 CU5 (Self Hosted).
 
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2019 Developer Virtual Machine (DVM).
+The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 Developer Virtual Machine (DVM).
 
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU5.
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU4 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU3 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU2 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 CU1 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q4 2018 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages2017.war on BlackBoard Learn Q2 2018 Developer Virtual Machine (DVM).
+The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q4 2018 CU5.
 
 My Messages may work with SaaS, but believe this would best be done as a Custom B2 migration to LTI + REST API.
 
-Please post your status with installing My Messages B2 on Q4 2018 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
+Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
+
+Please post your status with installing My Messages B2 on Q4 2018 with optional CUs (Self-Hosted or Managed Hosted):
 
 https://community.blackboard.com/message/26281-my-messages-b2-for-q4-2018
 
-Please post your status with installing My Messages B2 on Q2 2018 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
+Please post your status with installing My Messages B2 on Q2 2018 with optional CUs (Self-Hosted or Managed Hosted):
 
 https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
 
-Please post your status with installing My Messages B2 on Q4 2017 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
+Please post your status with installing My Messages B2 on Q4 2017 with optional CUs (Self-Hosted or Managed Hosted):
 
 https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
 
