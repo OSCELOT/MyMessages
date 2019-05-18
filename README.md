@@ -28,7 +28,9 @@ The University of New Mexico has successfully installed and tested unm-unmmymess
 
 My Messages may work with SaaS, but believe this would best be done as a Custom B2 migration to LTI + REST API.
 
-Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted, Managed Hosted, or SaaS):
+Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted or Managed Hosted):
+
+https://community.blackboard.com/message/29581-my-messages-b2-for-q2-2019
 
 Please post your status with installing My Messages B2 on Q4 2018 with optional CUs (Self-Hosted or Managed Hosted):
 
@@ -41,6 +43,10 @@ https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
 Please post your status with installing My Messages B2 on Q4 2017 with optional CUs (Self-Hosted or Managed Hosted):
 
 https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
+
+Please post your status with installing My Messages B2 on SaaS (Original Experience only):
+
+https://community.blackboard.com/thread/7587-my-messages-b2-for-saas-including-plans-to-move-to-java-11-original-experience
 
 The unm-unmmymessages.war (version 2.3.0-q4.2016) is deprecated effective December 1, 2018 since Blackboard Learn Q4 2016 is not supported as of December 2018.
 
