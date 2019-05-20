@@ -12,9 +12,13 @@ Bruce Tenison gave written permission to update - Thank You Bruce!
 
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
 
-Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
+Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 because Q4 2017 is not supported as of December 2019.
 
-Version 2.3.3-q4.2018 will be deprecated on Q4 2017 effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
+For Q4 2017 My Messages version 2.3.3-q4.2018 will not install (requires at least Q2 2018 Learn Release).
+
+For Q4 2017 use My Messages version 2.3.1-q4.2017 until upgrade Learn Release to at least Q2 2018.
+
+My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
 
 My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 since Q4 2019 is planned to use Java 11.  Plan to post another My Messages version for Java 11 about late December 2019.
 
