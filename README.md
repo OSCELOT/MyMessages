@@ -14,7 +14,7 @@ Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon 
 
 For Q4 2017 My Messages version 2.3.3-q4.2018 will not install (requires at least Q2 2018 Learn Release).
 
-For Q4 2017 use My Messages version 2.3.1-q4.2017 until upgrade Learn Release to at least Q2 2018.
+For Q4 2017 use My Messages unm-unmmymessages2017.war (version 2.3.1-q4.2017) until upgrade Learn Release to at least Q2 2018.
 
 My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
 
