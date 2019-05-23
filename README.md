@@ -38,7 +38,9 @@ My Messages (version 2.3.3-q4.2018) rebuilt with Q4 2018 Building Block APIs: Bu
 
 Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT https://oscelot.org/
 
-2. Added Portuguese (Brazil) language, aka pt_BR, based on enhancement submission - Thanks to Diego Roberto de Sousa for translation.
+2. Added Portuguese (Brazil) language, aka pt_BR, based on enhancement submission.
+
+Thanks to Diego Roberto de Sousa for translation.
 
 Supplemental Information: https://community.blackboard.com/ideas/2949-my-messages
 
