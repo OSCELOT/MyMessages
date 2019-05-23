@@ -8,8 +8,6 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-Bruce Tenison gave written permission to update - Thank You Bruce!
-
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
 Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 because Q4 2017 is not supported as of December 2019.
@@ -31,6 +29,18 @@ The University of New Mexico has successfully installed and tested unm-unmmymess
 The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q4 2018 CU5.
 
 My Messages may work with SaaS, but believe this would best be done as a Custom B2 migration to LTI + REST API.
+
+My Messages (version 2.3.3-q4.2018) is a rebuild (with modifications) of Bruce Tenison's (OSCELOT Archive) MyMessages B2 - Thank You Bruce!
+
+My Messages (version 2.3.3-q4.2018) rebuilt with Q4 2018 Building Block APIs: Building Blocks API 3500.0.0
+
+1. Using updated B2Context version 1.9.00 - GitHub - OSCELOT/bb-b2context: This package provides basic support functions for Building Blocks.
+
+Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT https://oscelot.org/
+
+2. Added Portuguese (Brazil) language, aka pt_BR, based on enhancement submission - Thanks to Diego Roberto de Sousa for translation.
+
+Supplemental Information: https://community.blackboard.com/ideas/2949-my-messages
 
 Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted or Managed Hosted):
 
