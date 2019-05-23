@@ -10,7 +10,7 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Bruce Tenison gave written permission to update - Thank You Bruce!
 
-The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, Q2 2018, or Q4 2017 (Original Experience only).
+The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
 Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 because Q4 2017 is not supported as of December 2019.
 
