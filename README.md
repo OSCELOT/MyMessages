@@ -24,6 +24,8 @@ My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX
 
 The University of New Mexico is currently running unm-unmmymessages2017.war (version 2.3.1-q4.2017) on Blackboard Learn Q4 2017 CU2 (Self Hosted).
 
+The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 CU2 Developer Virtual Machine (DVM).
+
 The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 CU1 Developer Virtual Machine (DVM).
 
 The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 Developer Virtual Machine (DVM).
