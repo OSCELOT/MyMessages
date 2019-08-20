@@ -16,9 +16,7 @@ For Q4 2017 My Messages version 2.3.3-q4.2018 will not install (requires at leas
 
 For Q4 2017 use My Messages unm-unmmymessages2017.war (version 2.3.1-q4.2017) until upgrade Learn Release to at least Q2 2018.
 
-My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 since Q4 2017 is not supported as of December 2019.
-
-My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 since Q4 2019 is planned to use Amazon Corretto 11.  Plan to post another My Messages version for Amazon Corretto 11 about late December 2019.
+My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 since Q4 2019 is planned to use Amazon Corretto 11.  Plan to post another My Messages version for Q4 2019 about December 2019.
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
