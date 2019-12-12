@@ -48,6 +48,8 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 
 Thanks to Diego Roberto de Sousa for translation.
 
+The https://community.blackboard.com/ links below will not work atarting 12/21/19 due to Blackboard migration to new Community Site.  Plan to update these links below hopefully by 1/18/20
+
 Supplemental Information: https://community.blackboard.com/ideas/2949-my-messages
 
 Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted or Managed Hosted):
@@ -62,15 +64,9 @@ Please post your status with installing My Messages B2 on Q2 2018 with optional 
 
 https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
 
-Please post your status with installing My Messages B2 on Q4 2017 with optional CUs (Self-Hosted or Managed Hosted):
-
-https://community.blackboard.com/thread/6412-mymessages-b2-war-file-for-q4-2017-posted-on-oscelot 
-
 Please post your status with installing My Messages B2 on SaaS (Original Experience only):
 
 https://community.blackboard.com/thread/7587-my-messages-b2-for-saas-including-plans-to-move-to-java-11-original-experience
-
-The unm-unmmymessages.war (version 2.3.0-q4.2016) is deprecated effective December 1, 2018 since Blackboard Learn Q4 2016 is not supported as of December 2018.
 
 If you are currently using Oscelot Messages (version 2.2.1 or prior) then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
 
