@@ -10,31 +10,15 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
-Recommend to upgrade your existing My Messages to version 2.3.3-q4.2018 as soon as practical since My Messages version 2.3.1-q4.2017 will be deprecated effective November 27, 2019 because Q4 2017 is not supported as of December 2019.
+My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 is planned to use Amazon Corretto 11.  
 
-For Q4 2017 My Messages version 2.3.3-q4.2018 will not install (requires at least Q2 2018 Learn Release).
-
-For Q4 2017 use My Messages unm-unmmymessages2017.war (version 2.3.1-q4.2017) until upgrade Learn Release to at least Q2 2018.
-
-My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 since Q4 2019 is planned to use Amazon Corretto 11.  Plan to post another My Messages version for Q4 2019 about December 2019.
+Plan to post another My Messages version for Q4 2019 and SaaS 3800 (Original only) about January 2020. 
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
 The University of New Mexico is currently running unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) on Blackboard Learn Q4 2018 CU6 (Self Hosted).
 
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 CU2 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 CU1 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q2 2019 Developer Virtual Machine (DVM).
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q4 2018 CU7 DVM.
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q4 2018 CU6.
-
-The University of New Mexico has successfully installed and tested unm-unmmymessages-q2-2019.war on BlackBoard Learn Q4 2018 CU5.
-
-My Messages may work with SaaS, but believe this would best be done as a Custom B2 migration to LTI + REST API.
+My Messages may work with SaaS (Original only), but believe this would best be done as a Custom B2 migration to LTI + REST API.
 
 My Messages (version 2.3.3-q4.2018) is a rebuild (with modifications) of Bruce Tenison's (OSCELOT Archive) MyMessages B2 - Thank You Bruce!
 
