@@ -8,11 +8,17 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS, Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
+The unm-unmmymessages-q4-2019.war (version 2.4.0-q4.2019) is the WAR file for Blackboard Learn Q4 2019 (Original Experience only).
+
+My Messages (version 2.4.0-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
+
+1. Using Amazon Corretto 11 
+
+The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS (3700.x), Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
 My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 is planned to use Amazon Corretto 11.  
 
-Plan to post another My Messages version for Q4 2019 and SaaS 3800 (Original only) about January 2020. 
+Plan to post another My Messages version for SaaS 3800 (Original only) about January 2020. 
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
@@ -65,7 +71,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
+| **Target Platforms** | Blackboard Learn Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
 
 ## Documentation
 
