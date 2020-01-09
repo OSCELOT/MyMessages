@@ -10,13 +10,16 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 The unm-unmmymessages-q4-2019.war (version 2.4.0-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
+
+
 My Messages (version 2.4.0-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
 
 1. Using Amazon Corretto 11 
+2. Updates for SaaS and Q4 2019 (ex: JSP Precompilation)
 
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS (3700.x), Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
-My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 is planned to use Amazon Corretto 11.  
+My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 uses Amazon Corretto 11.  
 
 Plan to post another My Messages version for SaaS 3800.2.0 (Original only) about mid January 2020. 
 
@@ -26,9 +29,9 @@ The University of New Mexico is currently running unm-unmmymessages-q2-2019.war 
 
 My Messages may work with SaaS (Original only), but believe this would best be done as a Custom B2 migration to LTI + REST API.
 
-My Messages (version 2.3.3-q4.2018) is a rebuild (with modifications) of Bruce Tenison's (OSCELOT Archive) MyMessages B2 - Thank You Bruce!
-
 My Messages (version 2.3.3-q4.2018) rebuilt with Q4 2018 Building Block APIs: Building Blocks API 3500.0.0
+
+My Messages (version 2.3.3-q4.2018) is a rebuild (with modifications) of Bruce Tenison's (OSCELOT Archive) MyMessages B2 - Thank You Bruce!
 
 1. Using updated B2Context version 1.9.00 - GitHub - OSCELOT/bb-b2context: This package provides basic support functions for Building Blocks.
 
