@@ -11,7 +11,6 @@ Creates a My Messages module at the course and organization level. It lists all 
 The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
 
-
 My Messages (version 2.4.1-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
 
 1. Using Amazon Corretto 11 
@@ -22,7 +21,7 @@ The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Bl
 
 My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 uses Amazon Corretto 11.  
 
-Plan to post another My Messages version for SaaS 3800.2.0 (Original only) about mid January 2020. 
+Plan to post another My Messages version for SaaS 3800.2.0 only (Original only) about mid January 2020. 
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
@@ -42,25 +41,13 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 
 Thanks to Diego Roberto de Sousa for translation.
 
-The https://community.blackboard.com/ links below will not work atarting 12/21/19 due to Blackboard migration to new Community Site.  Plan to update these links below hopefully by 1/18/20
+Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
 
-Supplemental Information: https://community.blackboard.com/ideas/2949-my-messages
+https://community.blackboard.com/discuss/viewtopic/80/5449
 
-Please post your status with installing My Messages B2 on Q2 2019 with optional CUs (Self-Hosted or Managed Hosted):
+Please post your status with installing My Messages B2 on SaaS 3800.0.0 only (Original Experience only):
 
-https://community.blackboard.com/message/29581-my-messages-b2-for-q2-2019
-
-Please post your status with installing My Messages B2 on Q4 2018 with optional CUs (Self-Hosted or Managed Hosted):
-
-https://community.blackboard.com/message/26281-my-messages-b2-for-q4-2018
-
-Please post your status with installing My Messages B2 on Q2 2018 with optional CUs (Self-Hosted or Managed Hosted):
-
-https://community.blackboard.com/thread/6664-my-messages-b2-for-q2-2018
-
-Please post your status with installing My Messages B2 on SaaS (Original Experience only):
-
-https://community.blackboard.com/thread/7587-my-messages-b2-for-saas-including-plans-to-move-to-java-11-original-experience
+https://community.blackboard.com/discuss/viewtopic/80/5448
 
 If you are currently using Oscelot Messages (version 2.2.1 or prior) then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
 
