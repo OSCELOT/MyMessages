@@ -8,14 +8,15 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-The unm-unmmymessages-q4-2019.war (version 2.4.0-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
+The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
 
 
-My Messages (version 2.4.0-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
+My Messages (version 2.4.1-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
 
 1. Using Amazon Corretto 11 
 2. Updates for SaaS and Q4 2019 (ex: JSP Precompilation)
+3. Updated for known issue with Blackboard Maven Repository 
 
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS (3700.x), Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
