@@ -8,8 +8,13 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
+The unm-unmmymessages-3800.2.war (version 2.4.2-3800.2) is the WAR file for Blackboard Learn SaaS 3800.2.0 (not 3800.x.0) only (Original Experience only).
 
+My Messages (version 2.4.2-3800.2) rebuilt with 3800.2.0 Building Block APIs: Building Blocks API 3800.2.0
+
+1. Using 3800.2.0 Blackboard APIs.
+
+The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
 My Messages (version 2.4.1-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
 
@@ -19,9 +24,7 @@ My Messages (version 2.4.1-q4.2018) rebuilt with Q4 2019 Building Block APIs: Bu
 
 The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Blackboard Learn SaaS (3700.x), Q2 2019, Q4 2018, or Q2 2018 (Original Experience only).
 
-My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 uses Amazon Corretto 11.  
-
-Plan to post another My Messages version for SaaS 3800.2.0 only (Original only) about mid January 2020. 
+My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 uses Amazon Corretto 11.   
 
 My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
 
