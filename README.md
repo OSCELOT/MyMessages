@@ -69,7 +69,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn SaaS 3800.0.0 (Original) only, SaaS 3700.x (Original), Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
+| **Target Platforms** | Blackboard Learn SaaS 3800.2.0 (Original) only, Blackboard Learn SaaS 3800.0.0 (Original) only, SaaS 3700.x (Original), Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
 
 ## Documentation
 
