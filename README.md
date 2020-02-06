@@ -8,7 +8,7 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-Recommend to uninstall all previous versions of My Messages so only having one version in use.
+Recommend to uninstall all previous versions of My Messages before installing a newer version of My Messages.
 
 The unm-unmmymessages-3800.2.war (version 2.4.2-3800.2) is the WAR file for Blackboard Learn SaaS 3800.2.0 (not 3800.x.0) only (Original Experience only).
 
