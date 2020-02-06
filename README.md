@@ -10,6 +10,12 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 Recommend to uninstall all previous versions of My Messages before installing a newer version of My Messages.
 
+The unm-unmmymessages-3800.4.war (version 2.4.3-3800.4) is the WAR file for Blackboard Learn SaaS 3800.4.0 (not 3800.x.0) only (Original Experience only).
+
+My Messages (version 2.4.3-3800.4) rebuilt with 3800.4.0 Building Block APIs: Building Blocks API 3800.4.0
+
+1. Using 3800.4.0 Blackboard APIs.
+
 The unm-unmmymessages-3800.2.war (version 2.4.2-3800.2) is the WAR file for Blackboard Learn SaaS 3800.2.0 (not 3800.x.0) only (Original Experience only).
 
 My Messages (version 2.4.2-3800.2) rebuilt with 3800.2.0 Building Block APIs: Building Blocks API 3800.2.0
@@ -49,6 +55,9 @@ Thanks to Diego Roberto de Sousa for translation.
 Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
 
 https://community.blackboard.com/discuss/viewtopic/80/5449
+
+Please post your status with installing My Messages B2 on SaaS 3800.4.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/80/5601
 
 Please post your status with installing My Messages B2 on SaaS 3800.2.0 only (Original Experience only):
 
