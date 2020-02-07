@@ -8,7 +8,7 @@
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
-Recommend to uninstall all previous versions of My Messages before installing a newer version of My Messages.
+If you are currently using My Messages (version 2.2.1 or prior) then you will need to uninstall My Messages in order to successfully install My Messages.
 
 The unm-unmmymessages-3800.4.war (version 2.4.3-3800.4) is the WAR file for Blackboard Learn SaaS 3800.4.0 (not 3800.x.0) only (Original Experience only).
 
@@ -67,8 +67,6 @@ Please post your status with installing My Messages B2 on SaaS 3800.0.0 only (Or
 
 https://community.blackboard.com/discuss/viewtopic/80/5448
 
-If you are currently using Oscelot Messages (version 2.2.1 or prior) then you will need to uninstall Oscelot Messages in order to successfully install My Messages.
-
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
@@ -80,7 +78,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn SaaS 3800.2.0 (Original) only, Blackboard Learn SaaS 3800.0.0 (Original) only, SaaS 3700.x (Original), Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
+| **Target Platforms** | Blackboard Learn SaaS 3800.4.0 (Original) only, Blackboard Learn SaaS 3800.2.0 (Original) only, Blackboard Learn SaaS 3800.0.0 (Original) only, SaaS 3700.x (Original), Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), Q4 2018 with optional CUs (ex: 3500.0.0), or Q2 2018 with optional CUs (ex: 3400.0.0)|
 
 ## Documentation
 
