@@ -10,7 +10,7 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 If you are currently using My Messages (version 2.2.1 or prior) then you will need to uninstall My Messages in order to successfully install My Messages.
 
-The unm-unmmymessages-3800.6.war (version 2.4.4-3800.6) is the WAR file for Blackboard Learn SaaS 3800.4.0 (not 3800.x.0) only (Original Experience only).
+The unm-unmmymessages-3800.6.war (version 2.4.4-3800.6) is the WAR file for Blackboard Learn SaaS 3800.6.0 (not 3800.x.0) only (Original Experience only).
 
 1. Using 3800.6.0 Blackboard APIs.
 
