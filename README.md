@@ -64,7 +64,7 @@ Please post your status with installing My Messages B2 on Q4 2019 with optional 
 
 https://community.blackboard.com/discuss/viewtopic/80/5449
 
-Please post your status with installing My Messages B2 on SaaS 3800.6.0 only (Original Experience only):
+Please post your status with installing My Messages B2 on SaaS 3800.9.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6021
 
 Please post your status with installing My Messages B2 on SaaS 3800.6.0 only (Original Experience only):
