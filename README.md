@@ -69,7 +69,6 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 Thanks to Diego Roberto de Sousa for translation.
 
 Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
-
 https://community.blackboard.com/discuss/viewtopic/80/5449
 
 Please post your status with installing My Messages B2 on SaaS 3800.11.0 only (Original Experience only):
