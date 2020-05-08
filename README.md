@@ -72,22 +72,11 @@ Please post your status with installing My Messages B2 on Q4 2019 with optional 
 
 https://community.blackboard.com/discuss/viewtopic/80/5449
 
+Please post your status with installing My Messages B2 on SaaS 3800.11.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/80/6237
+
 Please post your status with installing My Messages B2 on SaaS 3800.9.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6021
-
-Please post your status with installing My Messages B2 on SaaS 3800.6.0 only (Original Experience only):
-https://community.blackboard.com/discuss/viewtopic/80/5834
-
-Please post your status with installing My Messages B2 on SaaS 3800.4.0 only (Original Experience only):
-https://community.blackboard.com/discuss/viewtopic/80/5601
-
-Please post your status with installing My Messages B2 on SaaS 3800.2.0 only (Original Experience only):
-
-https://community.blackboard.com/discuss/viewtopic/80/5497
-
-Please post your status with installing My Messages B2 on SaaS 3800.0.0 only (Original Experience only):
-
-https://community.blackboard.com/discuss/viewtopic/80/5448
 
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
