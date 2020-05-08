@@ -54,8 +54,6 @@ My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX
 
 The University of New Mexico is currently running unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) on Blackboard Learn Q4 2018 CU 10 (Self Hosted).
 
-My Messages may work with SaaS (Original only), but believe this would best be done as a Custom B2 migration to LTI + REST API.
-
 My Messages (version 2.3.3-q4.2018) rebuilt with Q4 2018 Building Block APIs: Building Blocks API 3500.0.0
 
 My Messages (version 2.3.3-q4.2018) is a rebuild (with modifications) of Bruce Tenison's (OSCELOT Archive) MyMessages B2 - Thank You Bruce!
@@ -76,6 +74,10 @@ https://community.blackboard.com/discuss/viewtopic/80/6237
 
 Please post your status with installing My Messages B2 on SaaS 3800.9.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6021
+
+Notes for both Learn SaaS (Original only) and 9.1 (SH/MH): 
+1) Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
+2) Recommend additional independent testing on a Test Server before using on a Production Server.
 
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
