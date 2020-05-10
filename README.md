@@ -5,10 +5,16 @@
 
 ![Alt text](MyMessagesOneMessageAfterLinkClick.png?raw=true "Screen Shot with One (Course) Message after clicking link")
 
+On behalf of The University of New Mexico (UNM) Information Technologies http://it.unm.edu, posting MyMessages B2 WAR files for Blackboard Learn SaaS (Original Experience only) and 9.1 (Self-Hosted/Managed Hosted) on OSCELOT in the hope that it will be useful for the Blackboard Learn Community.
+
+Please read this README file before installing and indepnedently testing (on a Test Server first).
+
 ## Description
 Creates a My Messages module at the course and organization level. It lists all courses with messages in the inbox and presents a direct link to the inbox within the appropriate course.
 
 If you are currently using My Messages (version 2.2.1 or prior) then you will need to uninstall My Messages in order to successfully install My Messages.
+
+Note: Below is a short history of the current SaaS Test Release and Production Release.
 
 The unm-unmmymessages-3800.11.war (version 2.4.6-3800.11) is the WAR file for Blackboard Learn SaaS 3800.11.0 (not 3800.x.0) only (Original Experience only).
 
@@ -36,7 +42,7 @@ My Messages (version 2.4.2-3800.2) rebuilt with 3800.2.0 Building Block APIs.
 
 1. Using 3800.2.0 Blackboard APIs.
 
-Note: Below is a short history for 9.1 Releases and earlier SaaS Releases
+Note: Below is a short history for 9.1 Releases and even earlier SaaS Releases
 
 The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
@@ -50,7 +56,7 @@ The unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) is the WAR file for Bl
 
 My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800 (or higher) since Q4 2019 and SaaS 3800 uses Amazon Corretto 11.   
 
-My Messages B2 will NOT work in Ultra (since B2s that have a non-system admin UX will not work in Ultra).
+My Messages B2 will NOT work in Ultra Experience (since B2s that have a non-system admin UX will not work in Ultra).
 
 The University of New Mexico is currently running unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) on Blackboard Learn Q4 2018 CU 10 (Self Hosted).
 
@@ -75,9 +81,7 @@ https://community.blackboard.com/discuss/viewtopic/80/6237
 Please post your status with installing My Messages B2 on SaaS 3800.9.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6021
 
-Notes for both Learn SaaS (Original only) and 9.1 (SH/MH): 
-1) Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
-2) Recommend additional independent testing on a Test Server before using on a Production Server.
+Note for both Learn SaaS (Original only) and 9.1 (SH/MH): Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
 
 MyMessages is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
