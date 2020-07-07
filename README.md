@@ -24,11 +24,11 @@ The unm-unmmymessages-3800.13.war (version 2.4.7-3800.13) is the WAR file for Bl
 
 1. Using 3800.13.0 Blackboard APIs.
 
+Note: Below is a short history for earlier SaaS Releases
+
 The unm-unmmymessages-3800.11.war (version 2.4.6-3800.11) is the WAR file for Blackboard Learn SaaS 3800.11.0 (not 3800.x.0) only (Original Experience only).
 
 1. Using 3800.11.0 Blackboard APIs.
-
-Note: Below is a short history for earlier SaaS Releases
 
 The unm-unmmymessages-3800.9.war (version 2.4.5-3800.9) is the WAR file for Blackboard Learn SaaS 3800.9.0 (not 3800.x.0) only (Original Experience only).
 
@@ -83,11 +83,11 @@ Thanks to Diego Roberto de Sousa for translation.
 Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
 https://community.blackboard.com/discuss/viewtopic/80/5449
 
+Please post your status with installing My Messages B2 on SaaS 3800.15.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/80/6607
+
 Please post your status with installing My Messages B2 on SaaS 3800.13.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6390
-
-Please post your status with installing My Messages B2 on SaaS 3800.11.0 only (Original Experience only):
-https://community.blackboard.com/discuss/viewtopic/80/6237
 
 Note for both Learn SaaS (Original only) and 9.1 (SH/MH): Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
 
@@ -102,7 +102,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn SaaS 3800.13.0 (Original) only, SaaS 3800.11.0 (Original) only, Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), or Q4 2018 with optional CUs (ex: 3500.0.0)|
+| **Target Platforms** | Blackboard Learn SaaS 3800.15.0 (Original) only, SaaS 3800.13.0 (Original) only, Q4 2019 with optional CUs (ex: 3800.0.0), Q2 2019 with optional CUs (ex: 3700.0.0), or Q4 2018 with optional CUs (ex: 3500.0.0)|
 
 ## Documentation
 
