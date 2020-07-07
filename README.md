@@ -16,6 +16,10 @@ If you are currently using My Messages (version 2.2.1 or prior) then you will ne
 
 Note: Below is a short history of the current SaaS Test Release and Production Release.
 
+The unm-unmmymessages-3800.15.war (version 2.4.8-3800.15) is the WAR file for Blackboard Learn SaaS 3800.15.0 (not 3800.x.0) only (Original Experience only).
+
+1. Using 3800.15.0 Blackboard APIs.
+
 The unm-unmmymessages-3800.13.war (version 2.4.7-3800.13) is the WAR file for Blackboard Learn SaaS 3800.13.0 (not 3800.x.0) only (Original Experience only).
 
 1. Using 3800.13.0 Blackboard APIs.
