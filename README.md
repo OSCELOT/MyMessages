@@ -48,7 +48,7 @@ My Messages (version 2.4.2-3800.2) rebuilt with 3800.2.0 Building Block APIs.
 
 Note: Below is a short history for 9.1 Releases and even earlier SaaS Releases
 
-The unm-unmmymessages-q4-2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
+The unm-unmmymessages2019.war (version 2.4.1-q4.2019) is the WAR file for Blackboard Learn SaaS 3800.0.0 (not 3800.x.0) and Q4 2019 (Original Experience only).
 
 My Messages (version 2.4.1-q4.2018) rebuilt with Q4 2019 Building Block APIs: Building Blocks API 3800.0.0
 
