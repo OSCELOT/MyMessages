@@ -66,7 +66,7 @@ My Messages (version 2.3.3-q4.2018) is not recommended for Q4 2019 and SaaS 3800
 
 My Messages B2 will NOT work in Ultra Experience (since B2s that have a non-system admin UX will not work in Ultra).
 
-The University of New Mexico is currently running unm-unmmymessages-q2-2019.war (version 2.3.3-q4.2018) on Blackboard Learn Q4 2018 CU 10 (Self Hosted).
+The University of New Mexico is currently running unm-unmmymessages2019.war (version 2.4.1-q4.2019) on Blackboard Learn Q4 2019 CU 4 (Self Hosted).
 
 My Messages (version 2.3.3-q4.2018) rebuilt with Q4 2018 Building Block APIs: Building Blocks API 3500.0.0
 
