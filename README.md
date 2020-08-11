@@ -87,11 +87,11 @@ Thanks to Diego Roberto de Sousa for translation.
 Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
 https://community.blackboard.com/discuss/viewtopic/80/5449
 
+Please post your status with installing My Messages B2 on SaaS 3800.17.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/80/6792
+
 Please post your status with installing My Messages B2 on SaaS 3800.15.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/6607
-
-Please post your status with installing My Messages B2 on SaaS 3800.13.0 only (Original Experience only):
-https://community.blackboard.com/discuss/viewtopic/80/6390
 
 Note for both Learn SaaS (Original only) and 9.1 (SH/MH): Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
 
