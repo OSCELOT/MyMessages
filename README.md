@@ -16,15 +16,19 @@ If you are currently using My Messages (version 2.2.1 or prior) then you will ne
 
 Note: Below is a short history of the current SaaS Test Release and Production Release.
 
-The unm-unmmymessages-3900.0.war (version 2.6.0-3900.0) is the WAR file for Blackboard Learn 3900.0.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
+The unm-unmmymessages-3900.2.war (version 2.6.1-3900.2) is the WAR file for Blackboard Learn 3900.2.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
+
+1. Using 3900.2.0 Blackboard APIs.
+
+The unm-unmmymessages-3900.0.war (version 2.6.0-3900.0) is the WAR file for Blackboard Learn 3900.0.0 MH/SH (not 3900.x.0) (Original Experience only).
 
 1. Using 3900.0.0 Blackboard APIs.
+
+Note: Below is a short history for earlier SaaS Releases
 
 The unm-unmmymessages-3800.19.war (version 2.5.0-3800.19) is the WAR file for Blackboard Learn SaaS 3800.19.0 (not 3800.x.0) only (Original Experience only).
 
 1. Using 3800.19.0 Blackboard APIs.
-
-Note: Below is a short history for earlier SaaS Releases
 
 The unm-unmmymessages-3800.17.war (version 2.4.9-3800.17) is the WAR file for Blackboard Learn SaaS 3800.17.0 (not 3800.x.0) only (Original Experience only).
 
@@ -92,14 +96,14 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 
 Thanks to Diego Roberto de Sousa for translation.
 
-Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
-https://community.blackboard.com/discuss/viewtopic/80/5449
+Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.2.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/87/7417
 
-Please post your status with installing My Messages B2 on SaaS 3900.0.0 only (Original Experience only):
+Please post your status with installing My Messages B2 on MH/SH 3900.0.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/80/7175
 
-Please post your status with installing My Messages B2 on SaaS 3800.19.0 only (Original Experience only):
-https://community.blackboard.com/discuss/viewtopic/80/6889
+Please post your status with installing My Messages B2 on Q4 2019 with optional CUs (Self-Hosted or Managed Hosted):
+https://community.blackboard.com/discuss/viewtopic/80/5449
 
 Note for both Learn SaaS (Original only) and 9.1 (SH/MH): Believe best practice is a B2 migration to LTI + REST API, but 'Message' Blackbaord Java APIs have not yet been developed into REST APIs.
 
@@ -114,7 +118,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn 3900.0.0 SaaS, MH, and SH (Original) only, Q4 2019 with optional CUs (ex: 3800.0.0)|
+| **Target Platforms** | Blackboard Learn 3900.2.0 SaaS/MH/SH (Original) only, 3900.0.0 MH/SH (Original) only, Q4 2019 with optional CUs (ex: 3800.0.0)|
 
 ## Documentation
 
