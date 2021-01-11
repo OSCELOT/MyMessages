@@ -14,17 +14,21 @@ Creates a My Messages module at the course and organization level. It lists all 
 
 If you are currently using My Messages (version 2.2.1 or prior) then you will need to uninstall My Messages in order to successfully install My Messages.
 
-Note: Below is a short history of the current SaaS Test Release and Production Release.
+Note: Below is a history of the current SaaS Test Release and Production Release.
+
+The unm-unmmymessages-3900.6.war (version 2.6.3-3900.6) is the WAR file for Blackboard Learn 3900.6.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
+
+1. Using 3900.6.0 Blackboard APIs.
 
 The unm-unmmymessages-3900.4.war (version 2.6.2-3900.4) is the WAR file for Blackboard Learn 3900.4.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
 
 1. Using 3900.4.0 Blackboard APIs.
 
+Note: Below is a history for earlier SaaS Releases
+
 The unm-unmmymessages-3900.2.war (version 2.6.1-3900.2) is the WAR file for Blackboard Learn 3900.2.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
 
 1. Using 3900.2.0 Blackboard APIs.
-
-Note: Below is a short history for earlier SaaS Releases
 
 The unm-unmmymessages-3900.0.war (version 2.6.0-3900.0) is the WAR file for Blackboard Learn 3900.0.0 MH/SH (not 3900.x.0) (Original Experience only).
 
@@ -125,7 +129,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn 3900.4.0 SaaS/MH/SH (Original) only, 3900.2.0 SaaS/MH/SH (Original) only, 3900.0.0 MH/SH (Original) only, Q4 2019 with optional CUs (ex: 3800.0.0)|
+| **Target Platforms** | Blackboard Learn 3900.6.0 SaaS/MH/SH (Original) only, 3900.4.0 MH/SH (Original), 3900.2.0 MH/SH (Original), 3900.0.0 MH/SH (Original), Q4 2019 MH/SH (Original) with optional CUs (ex: 3800.0.0)|
 
 ## Documentation
 
