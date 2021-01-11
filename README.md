@@ -104,10 +104,13 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 
 Thanks to Diego Roberto de Sousa for translation.
 
+Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.6.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/87/7549
+
 Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.4.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/87/7504
 
-Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.2.0 only (Original Experience only):
+Please post your status with installing My Messages B2 on MH/SH 3900.2.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/87/7417
 
 Please post your status with installing My Messages B2 on MH/SH 3900.0.0 only (Original Experience only):
