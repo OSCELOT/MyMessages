@@ -16,15 +16,19 @@ If you are currently using My Messages (version 2.2.1 or prior) then you will ne
 
 Note: Below is a history of the current SaaS Test Release and Production Release.
 
+The unm-unmmymessages-3900.8.war (version 2.6.4-3900.8) is the WAR file for Blackboard Learn 3900.8.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
+
+1. Using 3900.8.0 Blackboard APIs.
+
 The unm-unmmymessages-3900.6.war (version 2.6.3-3900.6) is the WAR file for Blackboard Learn 3900.6.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
 
 1. Using 3900.6.0 Blackboard APIs.
 
+Note: Below is a history for earlier SaaS Releases
+
 The unm-unmmymessages-3900.4.war (version 2.6.2-3900.4) is the WAR file for Blackboard Learn 3900.4.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
 
 1. Using 3900.4.0 Blackboard APIs.
-
-Note: Below is a history for earlier SaaS Releases
 
 The unm-unmmymessages-3900.2.war (version 2.6.1-3900.2) is the WAR file for Blackboard Learn 3900.2.0 SaaS, MH, and SH (not 3900.x.0) (Original Experience only).
 
@@ -104,10 +108,13 @@ Thanks to Stephen Vickers https://github.com/OSCELOT/bb-b2context and OSCELOT ht
 
 Thanks to Diego Roberto de Sousa for translation.
 
+Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.8.0 only (Original Experience only):
+https://community.blackboard.com/discuss/viewtopic/87/7737
+
 Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.6.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/87/7549
 
-Please post your status with installing My Messages B2 on SaaS, MH/SH 3900.4.0 only (Original Experience only):
+Please post your status with installing My Messages B2 on MH/SH 3900.4.0 only (Original Experience only):
 https://community.blackboard.com/discuss/viewtopic/87/7504
 
 Please post your status with installing My Messages B2 on MH/SH 3900.2.0 only (Original Experience only):
@@ -132,7 +139,7 @@ MyMessages is distributed in the hope that it will be useful, but WITHOUT ANY WA
 | **Development Status** | Production/Stable |
 | **License** | GNU General Public License Version 3 (GPL-3.0)|
 | **Programming Language** | Java |
-| **Target Platforms** | Blackboard Learn 3900.6.0 SaaS/MH/SH (Original) only, 3900.4.0 MH/SH (Original), 3900.2.0 MH/SH (Original), 3900.0.0 MH/SH (Original), Q4 2019 MH/SH (Original) with optional CUs (ex: 3800.0.0)|
+| **Target Platforms** | Blackboard Learn 3900.8.0 SaaS/MH/SH (Original) only, 3900.6.0 MH/SH (Original), 3900.4.0 MH/SH (Original), 3900.2.0 MH/SH (Original), 3900.0.0 MH/SH (Original), Q4 2019 MH/SH (Original) with optional CUs (ex: 3800.0.0)|
 
 ## Documentation
 
