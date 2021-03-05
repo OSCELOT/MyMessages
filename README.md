@@ -5,6 +5,9 @@
 
 ![Alt text](MyMessagesOneMessageAfterLinkClick.png?raw=true "Screen Shot with One (Course) Message after clicking link")
 
+Effective 3/5/21: The University of New Mexico (UNM) Information Technologies no longer has the resources to maintain My Messages.
+
+Prior to 3/5/21:
 On behalf of The University of New Mexico (UNM) Information Technologies http://it.unm.edu, posting MyMessages B2 WAR files for Blackboard Learn SaaS (Original Experience only) and 9.1 (Self-Hosted/Managed Hosted) on OSCELOT in the hope that it will be useful for the Blackboard Learn Community.
 
 Please read this README file before installing and indepnedently testing (on a Test Server first).
